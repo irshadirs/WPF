@@ -21,7 +21,7 @@ namespace WpfApp1
         {
             containerRegistry.Register<Services.ICustomerStore, Services.DbCustomerStore>();
             // register other needed services here///
-            //Test
+            //Test+++++
         }
         protected override Window CreateShell()
         {
