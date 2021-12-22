@@ -16,8 +16,6 @@ namespace WpfApp1.ViewModels
         {
             _customerStore = customerStore;
         }
-
-
         public ObservableCollection<string> Customers { get; private set; } =
             new ObservableCollection<string>();
 

@@ -23,3 +23,4 @@ C:\Users\Irshad\Desktop\WPF\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csproj.CopyC
 C:\Users\Irshad\Desktop\WPF\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
 C:\Users\Irshad\Desktop\WPF\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
 C:\Users\Irshad\Desktop\WPF\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genruntimeconfig.cache
+C:\Users\Irshad\Desktop\WPF\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
